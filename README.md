@@ -216,6 +216,9 @@ x <= y                      // Less than or equal to
 x > y                       // Greater than
 x >= y                      // Greater than or equal to
 
+x == y                      // Equals
+x != y                      // Not equals
+
 x & y                       // Bitwise and (3 & 6 is 2)
 x ^ y                       // Bitwise exclusive or (3 ^ 6 is 5)
 x | y                       // Bitwise or (3 | 6 is 7)
